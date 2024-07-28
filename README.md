@@ -68,3 +68,43 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### 'Shopping Cart Home Page'
+
+<img width="1345" alt="Screenshot 2024-07-28 at 4 55 04 PM" src="https://github.com/user-attachments/assets/ca2f2388-cae1-4350-ac06-8c34a972ca53">
+
+### 'Exclusive in Home Page'
+
+<img width="1359" alt="Screenshot 2024-07-28 at 4 58 48 PM" src="https://github.com/user-attachments/assets/cf8abaa6-a9bc-48e1-8e79-a8bd64e54d41">
+
+### 'New Collection in Home Page'
+
+<img width="1400" alt="Screenshot 2024-07-28 at 4 58 58 PM" src="https://github.com/user-attachments/assets/47d3bb70-58f8-4204-ac58-0928ee7f136c">
+
+
+### 'Popular Collection in Home Page'
+
+<img width="1369" alt="Screenshot 2024-07-28 at 4 58 18 PM" src="https://github.com/user-attachments/assets/06cd271d-050b-49fe-9b7f-044fa7ac2ccd">
+
+
+### 'Mens Collection in Mens Page'
+
+<img width="1382" alt="Screenshot 2024-07-28 at 4 59 50 PM" src="https://github.com/user-attachments/assets/2d6299ee-0c12-4961-be61-05b109c1efb1">
+
+
+### 'Womens Collection in Womens Page'
+
+<img width="1440" alt="Screenshot 2024-07-28 at 4 59 58 PM" src="https://github.com/user-attachments/assets/81efc81b-0513-41f4-85d7-2e830ce45307">
+
+
+### 'Kids Collection in Kids Page'
+
+
+<img width="1440" alt="Screenshot 2024-07-28 at 5 00 07 PM" src="https://github.com/user-attachments/assets/28c3168a-3fd6-4ac9-a6df-f51bc3e1c2b3">
+
+### 'Login SignUp Page'
+
+<img width="1438" alt="Screenshot 2024-07-28 at 5 00 26 PM" src="https://github.com/user-attachments/assets/d4e01b1f-d8eb-4904-9aac-660c8509afaa">
+
